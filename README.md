@@ -1,5 +1,4 @@
-# 💫 About Me:
-i am currently a b.tech student in 3rd year with CSE branch<br>i am a full stack web developer in mern stack <br>in future i want to learn AIML
+
 
 
 ## 🌐 Socials:
